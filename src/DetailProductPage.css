@@ -45,9 +45,11 @@
 .info .row h2{
   text-transform: uppercase;
   letter-spacing: 2px;
-  font-size: 1.5rem;
-  font-weight: 500;
+  font-size: 1.7rem;
+  font-weight: 700;
+  
 }
+/* cptm */
 
 .info p{
   line-height: 1.5;
